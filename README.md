@@ -4,5 +4,5 @@ target:
 - carrying 50kg
 - move 1.2m/s
 
-this is the test latex$y=x_i^2$
+this is the test latex $ y=x_i^2 $
 
